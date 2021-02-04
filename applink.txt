@@ -1,63 +1,7 @@
 {
   
   "data_mbcp" : [
-    {
-    "imgurl" : "https://play-lh.googleusercontent.com/E-r7o7eZegiCIWsRenTa1c4kESI5q62XnhnhvtuV-R9it4X6Vg2KhVd94lYs68wmvps=s180-rw",
-    "name" : "All AC and DVD",
-    "playurl" : "https://play.google.com/store/apps/details?id=com.universal.remotecontrol.forall.ac.dvd"
-  },
-  {
-    "imgurl" : "https://play-lh.googleusercontent.com/anQO_ZHLbGH_h5CaOjwAUmOyPu8TnRY-Yuy2kyZJRMpJ-0vEq6pKZ2MJSOgiozCFvD4=s180-rw",
-    "name" : "Universal TV Remote for LG SmartTV",
-    "playurl" : "https://play.google.com/store/apps/details?id=com.smart.tv.lgremote.control.tvremotecontrol.lgtv"
-  },
-  {
-    "imgurl" : "https://play-lh.googleusercontent.com/wVuSSc1mY9Ba-38Zatb0_1uXTXOsJPREBOQS_32B3OUoYYw_Uwu79d3hkkHq18Zjamo=s180-rw",
-    "name" : " All AC Remote Control",
-    "playurl" : "https://play.google.com/store/apps/details?id=com.universal.remotecontrol.forallac.ac.acremote"
-  },
-{
-    "imgurl" : "https://play-lh.googleusercontent.com/7VxKZ2NgdQJi7HKBYJa81OnZw_q6cU7REu96SrLXyK4YrGLo2rZwSZb5gi6EZ_eqwwcR=s180-rw",
-    "name" : "Set-Top Box Remote Control",
-    "playurl" : "https://play.google.com/store/apps/details?id=com.universal.remotecontrol.forallsettopbox.settopbox.settopboxremote"
-  },
-{
-    "imgurl" : "https://play-lh.googleusercontent.com/yeqnbj6F9kkfelEw1iXVBf8M_xDjaeu3ixPFsNHvxfyJCAhge3s_8YTz8jpXDdXsgZU=s180-rw",
-    "name" : "Universal Remote - All TV Remote Control",
-    "playurl" : "https://play.google.com/store/apps/details?id=com.universal.remotecontrol.foralltv.tv.tvremote"
-  },
- {
-    "imgurl" : "https://play-lh.googleusercontent.com/jdA5KxmC5gqyIqMZV4ehFtW6O7NtZ0UUkWySNE7K27pnVSa-d8XSsYpnhPg7qRLvkih5=s180-rw",
-    "name" : "Set-Top Box Remote Control For All Set-Top Box",
-    "playurl" : "https://play.google.com/store/apps/details?id=com.universal.settopboxremote.remote.control.forallsettopboxremote.settopboxremoteremote"
-  }, 
-{
-    "imgurl" : "https://play-lh.googleusercontent.com/eZD7GmTlNp6KHSFrSXmImy6rYp4tIfqjEi5fGQDgZZSuBWi_Ogde2vZqLuiuFwRUIVc=s180-rw",
-    "name" : "DVD Remote Control ",
-    "playurl" : "https://play.google.com/store/apps/details?id=com.dvdplayer.remote.control.universal.foralldvd.dvdremote"
-  }, 
-{
-    "imgurl" : "https://play-lh.googleusercontent.com/FGAJjPZ8TYW2PFTQHjhsSAPe07p80XWV1s8mO1Zj2jppr7hjm1LYsYIrilEgSmptIb4=s180-rw",
-    "name" : "Universal Remote Control",
-    "playurl" : "https://play.google.com/store/apps/details?id=remote.control.universal.forall.tv.ac.setupbox"
-  }, 
-{
-    "imgurl" : "https://play-lh.googleusercontent.com/AmGfSwfQ83E4Me6Y_L89VzFmCNciIflhUGY83HCc4ju-9KhPJFp0sADN1hWWCNkRRqU=s180-rw",
-    "name" : "Universal Remote Control",
-    "playurl" : "https://play.google.com/store/apps/details?id=ac.setupbox.dvd.camera.projector.remote.control.universal.forall.tv"
-  }, 
-{
-    "imgurl" : "https://play-lh.googleusercontent.com/2gm67DxHPAyQ-Ko5Dz1l6s4BVBc2khtmjPyvE86g7Ts1hJxkMEGmlh8HBMGLGEq3Fw=s180-rw",
-    "name" : "Universal Remote Control",
-    "playurl" : "https://play.google.com/store/apps/details?id=com.settopbox.remote.control.universal.forallsettopbox.settopboxremote"
-  }
-, 
-{
-    "imgurl" : "https://play-lh.googleusercontent.com/3kIe2tq7mrhGxoJemImxLkejXetO_PYqKDlM5zeI6MsmFSwJbnzNGc_PZ4PJYf_R4yo=s180-rw",
-    "name" : "AC Remote Control",
-    "playurl" : "https://play.google.com/store/apps/details?id=com.ac.remote.control.universal.forallac.acremote"
-  }
-
+   
 
  ]
 }
