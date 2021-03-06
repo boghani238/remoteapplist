@@ -37,8 +37,8 @@
     "playurl" : "https://play.google.com/store/apps/details?id=remote.setupbox.control.universal.forall.tv.ac.dvd.camera.projector"
   },
 {
-    "imgurl" : "https://play-lh.googleusercontent.com/le-F-wW6yFKdlhtmfRBIhCnRfa5keEdLQxEDq9euvuuhqpZbZggwL5XNb9MkQMUFK8Y=s180-rw",
-    "name" : "Universal Remote - Remote Control for All DVD",
+    "imgurl" : "https://play-lh.googleusercontent.com/Njq1TcdFiSX3blaLsZnmvL04IFmes7TRKzcuhiSAoChzggqiuNaqOHmWlfbu-5v5nA=s180-rw",
+    "name" : "All DVD Player Remote - DVD Remote Control",
     "playurl" : "https://play.google.com/store/apps/details?id=tv.ac.dvd.camera.projector.remote.control.universal.forall.setupbox"
   }
 
