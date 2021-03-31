@@ -2,9 +2,19 @@
   
   "data_mbcp" : [
   {
-    "imgurl" : "https://play-lh.googleusercontent.com/SnV4LfYYepsNsAy8KT7WzxUQw8zSARQkLps2EslwMhVlzJajlMR5lwtwSs8Y8dSP-A=s180-rw",
-    "name" : "TV Remote Control",
-    "playurl" : "https://play.google.com/store/apps/details?id=com.tvremote.remotecontrol.foralltv"
+    "imgurl" : "https://play-lh.googleusercontent.com/wz3z-4115WkacW1kFOgeJciZPvDl1PR9XhUdhVtvk9ZawC1GKhxKohAqp72fuNNKOjb7=s180-rw",
+    "name" : "LG AC Remote Control",
+    "playurl" : "https://play.google.com/store/apps/details?id=com.lgac.acremote.remotecontrol"
+  },
+  {
+    "imgurl" : "https://play-lh.googleusercontent.com/V84f_9in2e-vS1KoP3DKTfJKAY4MWi-7-OKf8J2UPmb4P22Zfke5fHGH5hLzJNmkYug=s180-rw",
+    "name" : "Samsung AC Remote Control",
+    "playurl" : "https://play.google.com/store/apps/details?id=com.samsungac.acremote.remotecontrol"
+  },
+   {
+    "imgurl" : "https://play-lh.googleusercontent.com/Rc6LCVBtijhb9yBQ8MwDMyJobKez1yX2Fq4YbWSnXrFHe_EdoT6zltvR4Hue2OnQyDA6=s180-rw",
+    "name" : "Hitachi AC Remote Control",
+    "playurl" : "https://play.google.com/store/apps/details?id=com.hitachiac.acremote.remotecontrol"
   },
   {
     "imgurl" : "https://play-lh.googleusercontent.com/XOwDfx8ayKJsu_N9_C5cTZkX2BXgCNjAT7P8e1e-i4iqiLr3l4JJ7C1TJ4MFZKeOXaw=s180-rw",
