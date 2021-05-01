@@ -12,9 +12,24 @@
     "playurl" : "https://play.google.com/store/apps/details?id=com.sonytv.tvremote.remotecontrol"
   },
   {
-    "imgurl" : "https://play-lh.googleusercontent.com/Mddh2jpckPImqBBQQFn-M82gItHxzlfCteD-dOoIRbB4WrORV95qg8uPDcEj2tje-xM=s180-rw",
-    "name" : "AC + DVD Remote Control",
-    "playurl" : "https://play.google.com/store/apps/details?id=remote.setupbox.control.universal.forall.tv.ac.dvd.camera.projector"
+    "imgurl" : "https://play-lh.googleusercontent.com/isRHWAGHcASttMMw-0nC6S5x7YGDBvImi5X_G0I3qH5DV3bRk4sweWC01U1kTKT6qIk=s180-rw",
+    "name" : "Remote for Samsung TV",
+    "playurl" : "https://play.google.com/store/apps/details?id=com.tvremote.remotecontrol.samsungtv"
+  },
+  {
+    "imgurl" : "https://play-lh.googleusercontent.com/wVuSSc1mY9Ba-38Zatb0_1uXTXOsJPREBOQS_32B3OUoYYw_Uwu79d3hkkHq18Zjamo=s180-rw",
+    "name" : "All AC Remote Control",
+    "playurl" : "https://play.google.com/store/apps/details?id=com.universal.remotecontrol.forallac.ac.acremote"
+  },
+  {
+    "imgurl" : "https://play-lh.googleusercontent.com/E-r7o7eZegiCIWsRenTa1c4kESI5q62XnhnhvtuV-R9it4X6Vg2KhVd94lYs68wmvps=s180-rw",
+    "name" : "Universal Remote Control",
+    "playurl" : "https://play.google.com/store/apps/details?id=com.universal.remotecontrol.forall.ac.dvd"
+  },
+  {
+    "imgurl" : "https://play-lh.googleusercontent.com/yeqnbj6F9kkfelEw1iXVBf8M_xDjaeu3ixPFsNHvxfyJCAhge3s_8YTz8jpXDdXsgZU=s180-rw",
+    "name" : "All TV Remote Control",
+    "playurl" : "https://play.google.com/store/apps/details?id=com.universal.remotecontrol.foralltv.tv.tvremote"
   },
   {
     "imgurl" : "https://play-lh.googleusercontent.com/eRPTsq1KvOp_DjiIzxYF2cxK1zOZYHY0foiF2NHrScPlGB2dxzVzkwwXZs9-Wj13X2c=s180-rw",
