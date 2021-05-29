@@ -1,81 +1,75 @@
 {
-  
-  "data_mbcp" : [
-   {
-    "imgurl" : "https://play-lh.googleusercontent.com/IwlzlDCnqKi-uw-VEB13pvi8BUJWt5qRHescxmz0rXC1K2SQPHMac0YIVxagMxG-sg=s180-rw",
-    "name" : "Set Top Box Remote Control",
-    "playurl" : "https://play.google.com/store/apps/details?id=com.settopboxremote.remotecontrol.forallsettopbox"
+  "data_mbcp" : [ 
+{
+    "imgurl" : "https://play-lh.googleusercontent.com/TgxoqpBZONWx6W2ZmfrfroohliddEsBFa8gZPQ78ZZ6nU4X419X5vIBf_NuRM_tQyg=s180-rw",
+    "name" : "Remote Control For All TV, SettopBox, DVD & AC",
+    "playurl" : "https://play.google.com/store/apps/details?id=universa.remote.controll.forall.tv.setupbox.dvd.fan.ac.camera.projector"
   },
-    {
+{
     "imgurl" : "https://play-lh.googleusercontent.com/AKcHJ6xtKlVTEk8v7WnldLxvVMj5tpBq_XE0mlQHQy2dCNT5cWsh2NXTZnL8zQMQid4=s180-rw",
     "name" : "AC Remote Control",
     "playurl" : "https://play.google.com/store/apps/details?id=com.acremote.remotecontrol.forallac"
   },
-   {
-    "imgurl" : "https://play-lh.googleusercontent.com/RKxzJyNsix3vXfLxvrz-b5ONdbNTBfwh_yiMSW7ta_eIqj9Ud9s3y0GGi4AskqVrKCP-=s180-rw",
-    "name" : "GTPL Set Top Box Remote Control",
-    "playurl" : "https://play.google.com/store/apps/details?id=com.gtplsettopbox.settopboxremote.remotecontrol"
+{
+    "imgurl" : "https://play-lh.googleusercontent.com/Y-Nh0eZJJ6cDTwFBdKnYGHdceNZTls1fnd4n8FDb0rq7XWgfnFUIDJbzBddUseXDDz4=s180-rw",
+    "name" : "Smart TV Remote Control for All TV",
+    "playurl" : "https://play.google.com/store/apps/details?id=tvremotecontrol.universalremore.foralltv.tvremote"
   },
 {
-    "imgurl" : "https://play-lh.googleusercontent.com/fTMzX75x5i4c13vREt9h4_3_0QAhLX9mx0sg8gMroDrASZsRN_UPnTZTRPj59LQ9mNQ=s180-rw",
-    "name" : "TV Remote for Sony",
-    "playurl" : "https://play.google.com/store/apps/details?id=com.sonytv.tvremote.remotecontrol"
-  },
-  {
-    "imgurl" : "https://play-lh.googleusercontent.com/isRHWAGHcASttMMw-0nC6S5x7YGDBvImi5X_G0I3qH5DV3bRk4sweWC01U1kTKT6qIk=s180-rw",
-    "name" : "Remote for Samsung TV",
-    "playurl" : "https://play.google.com/store/apps/details?id=com.tvremote.remotecontrol.samsungtv"
-  },
-  {
-    "imgurl" : "https://play-lh.googleusercontent.com/wVuSSc1mY9Ba-38Zatb0_1uXTXOsJPREBOQS_32B3OUoYYw_Uwu79d3hkkHq18Zjamo=s180-rw",
-    "name" : "All AC Remote Control",
-    "playurl" : "https://play.google.com/store/apps/details?id=com.universal.remotecontrol.forallac.ac.acremote"
-  },
-  {
-    "imgurl" : "https://play-lh.googleusercontent.com/E-r7o7eZegiCIWsRenTa1c4kESI5q62XnhnhvtuV-R9it4X6Vg2KhVd94lYs68wmvps=s180-rw",
-    "name" : "Universal Remote Control",
-    "playurl" : "https://play.google.com/store/apps/details?id=com.universal.remotecontrol.forall.ac.dvd"
-  },
-  {
-    "imgurl" : "https://play-lh.googleusercontent.com/yeqnbj6F9kkfelEw1iXVBf8M_xDjaeu3ixPFsNHvxfyJCAhge3s_8YTz8jpXDdXsgZU=s180-rw",
-    "name" : "All TV Remote Control",
-    "playurl" : "https://play.google.com/store/apps/details?id=com.universal.remotecontrol.foralltv.tv.tvremote"
-  },
-  {
-    "imgurl" : "https://play-lh.googleusercontent.com/eRPTsq1KvOp_DjiIzxYF2cxK1zOZYHY0foiF2NHrScPlGB2dxzVzkwwXZs9-Wj13X2c=s180-rw",
-    "name" : "Videocon Remote Control",
-    "playurl" : "https://play.google.com/store/apps/details?id=com.videoconuniversal.remotecontrol.ac.tv.dvd"
-  },
-  {
-    "imgurl" : "https://play-lh.googleusercontent.com/wz3z-4115WkacW1kFOgeJciZPvDl1PR9XhUdhVtvk9ZawC1GKhxKohAqp72fuNNKOjb7=s180-rw",
-    "name" : "LG AC Remote Control",
-    "playurl" : "https://play.google.com/store/apps/details?id=com.lgac.acremote.remotecontrol"
-  },
-  {
-    "imgurl" : "https://play-lh.googleusercontent.com/V84f_9in2e-vS1KoP3DKTfJKAY4MWi-7-OKf8J2UPmb4P22Zfke5fHGH5hLzJNmkYug=s180-rw",
-    "name" : "Samsung AC Remote Control",
-    "playurl" : "https://play.google.com/store/apps/details?id=com.samsungac.acremote.remotecontrol"
-  },
-   {
-    "imgurl" : "https://play-lh.googleusercontent.com/Rc6LCVBtijhb9yBQ8MwDMyJobKez1yX2Fq4YbWSnXrFHe_EdoT6zltvR4Hue2OnQyDA6=s180-rw",
-    "name" : "Hitachi AC Remote Control",
-    "playurl" : "https://play.google.com/store/apps/details?id=com.hitachiac.acremote.remotecontrol"
+    "imgurl" : "https://play-lh.googleusercontent.com/IwlzlDCnqKi-uw-VEB13pvi8BUJWt5qRHescxmz0rXC1K2SQPHMac0YIVxagMxG-sg=s180-rw",
+    "name" : "Set Top Box Remote Control",
+    "playurl" : "https://play.google.com/store/apps/details?id=com.settopboxremote.remotecontrol.forallsettopbox"
   },
 {
-    "imgurl" : "https://play-lh.googleusercontent.com/_898cdAajAcXwCwZvx21WEa94sGjDRT16gc3HuTdk_7A4jjrzTroyytwSuepkuUA4gVG=s180-rw",
-    "name" : "Blue Star AC Remote",
-    "playurl" : "https://play.google.com/store/apps/details?id=com.bluestarac.acremote.remotecontrol"
+    "imgurl" : "https://play-lh.googleusercontent.com/VOqjCr6LfFntGPpGrSvL5ZiqXvHl7c631Y6T4gSG61fGrjj98DduwUnEMf0oHfUhdDM=s180-rw",
+    "name" : "Smart TV Remote for Intex TV Remote Control",
+    "playurl" : "https://play.google.com/store/apps/details?id=universal.remote.control.forall.tv.intextvremote"
   },
-
+{
+    "imgurl" : "https://play-lh.googleusercontent.com/O0QpXALe4_Oyi4y1JFGwzwwaqn8wSXiHpoDGbBQc4ttyiJKXd7poRkhkQM5r7D3pDoSL=s180-rw",
+    "name" : "Universal Remote For Mitsubishi AC",
+    "playurl" : "https://play.google.com/store/apps/details?id=com.mitsubishiac.acremote.mitsubishiacremotecontrol"
+  },
+{
+    "imgurl" : "https://play-lh.googleusercontent.com/zHxdQpdeSdobTL_8DsJyMB-kpQ1qjlXJYaaaHL8if9z34nJj4Ad8G14IfdPC15kOK1lE=s180-rw",
+    "name" : "Smart TV Remote for Micromax TV Remote Control",
+    "playurl" : "https://play.google.com/store/apps/details?id=universal.remote.control.forall.tv.micromaxtv"
+  },
+{
+    "imgurl" : "https://play-lh.googleusercontent.com/4jS6NRGSTbv8gd_IvwFMOV_Lm1arhNYGrg-VgYFtREhVPom-MvVj-CmJaQEPcXOO_Q=s180-rw",
+    "name" : "Smart TV Remote for Bush TV Remote Control",
+    "playurl" : "https://play.google.com/store/apps/details?id=com.tvremote.remotecontrol.foralltv.bushtvremote"
+  },
+{
+    "imgurl" : "https://play-lh.googleusercontent.com/L7SNivGlOPDrlwI-7Zv4kFueHBp-am8rjsWh2IXpaLBtWQch6fBTj9KD2KzxVHzSBs8=s180-rw",
+    "name" : "Universal Remote For Carrier AC",
+    "playurl" : "https://play.google.com/store/apps/details?id=com.carrierac.acremote.remotecontrol"
+  },
+{
+    "imgurl" : "https://play-lh.googleusercontent.com/KZlX4d_hsMuWm5GLvFAjKkYcnxy1kfJwKw-a_gK5_ARn2c3jaXqPZOIfncsc7vbvtw=s180-rw",
+    "name" : "Smart TV Remote for BPL TV Remote Control",
+    "playurl" : "https://play.google.com/store/apps/details?id=universal.remote.control.forall.tv.bplremote"
+  },
+{
+    "imgurl" : "https://play-lh.googleusercontent.com/mId9DILrI0oVJ8NGLI1GKqagcOA-HuLnDEdQk8mbRKA1NPZWG-6idvHj2oMq4sFquw=s180-rw",
+    "name" : "Smart TV Remote for Mitsubishi TV Remote Control",
+    "playurl" : "https://play.google.com/store/apps/details?id=com.tvremote.remotecontrol.foralltv.mitsubishitvremote"
+  },
+{
+    "imgurl" : "https://play-lh.googleusercontent.com/AJo9l7Y-FjxeInfhGcphTyPt3Gpd4iswDIBi6nRVRclQDMI2J3e7iYyhSv1ggfh-S4qn=s180-rw",
+    "name" : "Smart TV Remote for Lloyd TV Remote Control",
+    "playurl" : "https://play.google.com/store/apps/details?id=universal.remote.control.forall.tv.lloydtvremotecontrol"
+  },
 {
     "imgurl" : "https://play-lh.googleusercontent.com/jSR8jHabxsfbWIpcpFeLaVVluqAj0CyY5IKI4dhMtQgl9gxUenrvhmCgQpavOZhCfU8=s180-rw",
-    "name" : "Voltas AC Remote",
+    "name" : "Remote Control For Voltas Air Conditioner",
     "playurl" : "https://play.google.com/store/apps/details?id=com.voltasac.universal.acremote.remotecontrol"
   },
-    {
-    "imgurl" : "https://play-lh.googleusercontent.com/1km7VnZic4l1j9C_fUUolybCXv7E6b2XXnSXj_fTsDlkxITsfYne039XrQmpYNotDp0i=s180-rw",
-    "name" : "TCL Remote Control",
-    "playurl" : "https://play.google.com/store/apps/details?id=com.universal.remotecontrol.ac.tv.tclremotecontrol"
+{
+    "imgurl" : "https://play-lh.googleusercontent.com/f5YfvTQnQsOb4HSjRd_Cc_J1pfXlJ8DYJs-uumKcHm1rV63W89vFU2qMS_kLE8b16u4=s180-rw",
+    "name" : "Remote Control For Toshiba Air Conditioner",
+    "playurl" : "https://play.google.com/store/apps/details?id=com.acremote.toshibaac.remotecontrol"
   }
- ]
+
+]
 }
